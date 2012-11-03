@@ -21,35 +21,28 @@ Wednesdays, 6:30 - 8:30 pm
 
 ## Teacher info
 Rachel J. Morris
-
 racheljmorris@gmail.com
 
 ## Online reference
 CplusPlus – Reference page
-
 http://cplusplus.com/
 
 
 C++ Programming Ebook
-
 http://books.google.com/books?id=20xVrpISzoYC
 
 
 Learn CPP - Tutorial
-
 http://www.learncpp.com/
 
 
 Cprogramming C++ Tutorial
-
 http://www.cprogramming.com/tutorial.html
 
 
 AntiRTFM's C++ Video Tutorials
-
 http://www.youtube.com/user/antiRTFM
 
 
 TheNewBoston's C++ Video Tutorials
-
 http://thenewboston.org/list.php?cat=16
