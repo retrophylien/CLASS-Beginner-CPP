@@ -41,17 +41,17 @@ int main()
     Opponent opponent;
     opponent.NewRandomNumber();
 
-    bool done = false;
+    //bool done = false;
     int choice;
-    while ( !done )
+    while ( !opponent.CheckGuess( choice ) )
     {
         cout << "Guess: ";
         cin >> choice;
 
-        if ( opponent.CheckGuess( choice ) )
-        {
-            done = true;
-        }
+      //  if ( opponent.CheckGuess( choice ) )
+    //    {
+      //      done = true;
+        //}
     }
 
     return 0;
